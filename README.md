@@ -1,6 +1,6 @@
 |Virus/Protein/Source-type/chemist|CNP#|Origin of project|Virtual screen|Library selection and testing|Additional testing|Expansion set|Biological result of expansion|Hit to lead|lead optimization|Pre-clinical|IND|Clinical trials|NDA|publications|
  |------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |
-|DENV/RDRP/Life Chem-diversity/Rebecka|CNP11|■||■|■|■|▶️|||||||
+|DENV/RDRP/Life Chem-diversity/Rebecka|[CNP11](https://github.com/StructuralGenomicsConsortium/CNP11-DENVRdrp-LifeChem)|[■](https://github.com/StructuralGenomicsConsortium/CNP11-DENVRdrp-LifeChem/wiki/Origins-of-this-Project)||[■]()|[■]()|■|▶️|||||||
 |DENV/RDRP/Enamine-covalent/Rebecka|CNP17|■||■||▢||||||||
 |DENV/RDRP/Enamine-virtual/Rebecka|CNP18|■|■|▶️||||||||||
 |DENV/RDRP/ChEMBL-data mining/Rebecka|CNP9|■||■|■|■||||||||
