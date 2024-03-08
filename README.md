@@ -21,3 +21,7 @@ DENV/RDRP/Life Chem-diversity/Rebecka|[CNP11](https://github.com/StructuralGenom
 |DENV/RDRP/Reference cmpd-literature/Rebecka|CNP26|||||||||||||
 |DENV/RDRP/XChem-DEL/Rebecka||||||||||||||
 
+![Picture1](https://github.com/rahmanszsaleem/CoreDPipeLine/assets/147126062/fb0cf764-9ec0-4802-b843-1a5b983de4e7)
+
+![core D](https://github.com/rahmanszsaleem/CoreDPipeLine/assets/147126062/f08d4b07-49e1-4187-9825-000ef2454c16) 
+
